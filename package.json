@@ -1,0 +1,15 @@
+{
+  "name": "fasttree-task",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ms-jobmanager": "^1.0.1",
+    "taskobject": "^2.1.3"
+  }
+}
