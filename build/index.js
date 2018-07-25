@@ -25,3 +25,4 @@ class fastTreeTask extends tk.Task {
     }
 }
 exports.fastTreeTask = fastTreeTask;
+exports.Task = fastTreeTask;

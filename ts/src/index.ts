@@ -29,3 +29,6 @@ export class fastTreeTask extends tk.Task {
 	    }
     }
 }
+
+export {fastTreeTask as Task}
+
